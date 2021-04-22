@@ -1,11 +1,7 @@
 Accessing a GNU/Linux computer: 
 
 https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg 
-
-https://go.xiaoyezi.org:4200 (user: test, password: test) 
-
  
-
 Command List: 
 
 Show file list: `ls `
